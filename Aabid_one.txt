@@ -1,0 +1,33 @@
+﻿HELLO ALL
+
+    Directory: C:\Users\KHURRAMAABID
+
+
+Mode                LastWriteTime         Length Name                                                                                                                                               
+----                -------------         ------ ----                                                                                                                                               
+d-----       10-02-2020     12:55                .anaconda                                                                                                                                          
+d-----       02-08-2019     02:10                .cisco                                                                                                                                             
+d-----       10-02-2020     18:13                .conda                                                                                                                                             
+d-----       10-02-2020     17:26                .ipython                                                                                                                                           
+d-r---       17-12-2019     20:44                3D Objects                                                                                                                                         
+d-----       10-02-2020     12:51                Anaconda3                                                                                                                                          
+d-r---       17-12-2019     20:44                Contacts                                                                                                                                           
+d-r---       10-02-2020     17:20                Desktop                                                                                                                                            
+d-r---       10-02-2020     17:32                Documents                                                                                                                                          
+d-r---       11-02-2020     08:05                Downloads                                                                                                                                          
+d-r---       17-12-2019     20:44                Favorites                                                                                                                                          
+d-----       02-08-2019     04:51                IBM                                                                                                                                                
+d-r---       17-12-2019     20:44                Links                                                                                                                                              
+d-r---       17-12-2019     20:44                Music                                                                                                                                              
+d-r---       10-02-2020     14:17                OneDrive                                                                                                                                           
+d-----       06-08-2019     12:28                Oracle                                                                                                                                             
+d-r---       06-02-2020     19:21                Pictures                                                                                                                                           
+d-----       02-08-2019     11:03                Roaming                                                                                                                                            
+d-r---       17-12-2019     20:44                Saved Games                                                                                                                                        
+d-r---       17-12-2019     20:44                Searches                                                                                                                                           
+d-----       02-08-2019     02:25                STLogs                                                                                                                                             
+d-r---       17-12-2019     20:44                Videos                                                                                                                                             
+-a----       10-02-2020     12:56             43 .condarc                                                                                                                                           
+-a----       06-12-2019     02:56        9672176 DSC_0025.JPG                                                                                                                                       
+-a----       02-08-2019     02:17          56581 install.xml                                                                                                                                        
+-a----       02-08-2019     04:34          28538 stkeystore.p12                                                                                                                                     
