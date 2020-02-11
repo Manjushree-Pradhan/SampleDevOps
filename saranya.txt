@@ -1,0 +1,20 @@
+﻿
+
+    Directory: C:\Users\admin
+
+
+Mode                LastWriteTime     Length Name                                                                      
+----                -------------     ------ ----                                                                      
+d-r--        11/10/2018   7:27 PM            Contacts                                                                  
+d-r--         8/12/2019   1:01 PM            Desktop                                                                   
+d-r--        11/10/2018   7:47 PM            Documents                                                                 
+d-r--         2/11/2020   8:06 AM            Downloads                                                                 
+d-r--        11/10/2018   7:27 PM            Favorites                                                                 
+d-r--        11/10/2018   7:27 PM            Links                                                                     
+d-r--        11/10/2018   7:27 PM            Music                                                                     
+d-r--        11/10/2018   7:27 PM            Pictures                                                                  
+d-r--        11/10/2018   7:27 PM            Saved Games                                                               
+d-r--        11/10/2018   7:27 PM            Searches                                                                  
+d-r--        11/10/2018   7:27 PM            Videos                                                                    
+-a---         2/11/2020   8:13 AM          0 saranya.txt                                                               
+saranya
